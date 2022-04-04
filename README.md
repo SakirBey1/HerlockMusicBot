@@ -1,5 +1,4 @@
 # HerlockMusicBot
 
-Yakında Sizlerle..
+``Yakında Sizlerle..``
 
-</>   Deneme Demo Mode </>
