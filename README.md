@@ -2,4 +2,4 @@
 
 Yakında Sizlerle..
 
-</>   # Deneme Demo Mode </>
+</>   Deneme Demo Mode </>
